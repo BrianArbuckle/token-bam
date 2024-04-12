@@ -1,0 +1,63 @@
+{
+  "name": "BAM Token Games",
+  "symbol": "BAM",
+  "description": "A social game token.",
+  "image": "https://raw.githubusercontent.com/BrianArbuckle/token-bam/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Function",
+      "value": "In-game Currency"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Purchase Items, Access Levels"
+    },
+    {
+      "trait_type": "Exclusivity",
+      "value": "Players Only"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+        "trait_type": "Sentiment",
+        "value": "Fun and Community Driven"
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Internet Culture"
+      },
+      {
+        "trait_type": "Game",
+        "value": "BAM Token Games"
+      },
+      {
+        "trait_type": "Platform",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Developer",
+        "value": "Brian Arbuckle"
+      },
+      {
+        "trait_type": "Contract",
+        "value": "8gmK99jGeBRDnbyNDMm5ncud9VeQ7AKRc2VrZrQ6Fra2"
+      }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BrianArbuckle/token-bam/main/logo.png"        ,
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8gmK99jGeBRDnbyNDMm5ncud9VeQ7AKRc2VrZrQ6Fra2",
+        "share": 100
+      }
+    ]
+  }
+}
